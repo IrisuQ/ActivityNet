@@ -1,3 +1,8 @@
+--USAGE--
+
+
+
+
 #ActivityNet Large Scale Activity Recognition Challenge - Evaluation Toolkit
 This is the documentation of the ActivityNet Large Scale Activity Recognition
 Challenge Evaluation Toolkit. It includes APIs to evaluate the performance of a method in the two different tasks in the challenge: *untrimmed video classification* and *activity detection*. For more information about the challenge competitions, please read the [guidelines](http://activity-net.org/challenges/2016/guidelines.html).
